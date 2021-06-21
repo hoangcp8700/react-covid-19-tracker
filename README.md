@@ -7,7 +7,9 @@ React Function Component,
 React hook, 
 Redux toolkit, 
 Leaflet React, 
-Chartjs
+Chartjs,
+Material UI,
+Responsive 
 
 ### MÔ TẢ CHỨC NĂNG
 Chọn phép user chọn trường hợp (mắc covid, phục hồi, chết),
